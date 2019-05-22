@@ -1,13 +1,6 @@
-# Your Product Name
+# WinDbg Preview
 
-This is an issue-only repository, intended for soliciting feedback through [GitHub Issues](https://guides.github.com/features/issues/).
-
-# TODO: Update the Support file
-
-This repository contains a file called `SUPPORT`. Please make sure that the support information is
-accurate for your product.
-
-For more information: [GitHub SUPPORT file information](https://help.github.com/articles/adding-support-resources-to-your-project/)
+This is an issue-only repository, intended for soliciting feedback through [GitHub Issues](https://guides.github.com/features/issues/) for [WinDbg Preview](https://aka.ms/windbgpreview). Documentation for WinDbg Preview can be found on [docs.microsoft.com](http://aka.ms/windbgdocs)
 
 # Contributing
 
