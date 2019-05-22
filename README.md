@@ -1,6 +1,6 @@
 # WinDbg Preview
 
-This is an issue-only repository, intended for soliciting feedback through [GitHub Issues](https://guides.github.com/features/issues/) for [WinDbg Preview](https://aka.ms/windbgpreview). Documentation for WinDbg Preview can be found on [docs.microsoft.com](http://aka.ms/windbgdocs). If you need help debugging your application, try some of the resources under [SUPPORT.md]
+This is an issue-only repository, intended for soliciting feedback through [GitHub Issues](https://guides.github.com/features/issues/) for [WinDbg Preview](https://aka.ms/windbgpreview). Documentation for WinDbg Preview can be found on [docs.microsoft.com](http://aka.ms/windbgdocs). If you need help debugging your application, try some of the resources under [SUPPORT.md](SUPPORT.md)
 
 # Contributing
 
